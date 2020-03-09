@@ -16,6 +16,6 @@ Request and Write Reviews and Open Store Listing for Android&#x2F;iOS in Flutter
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '8.0'
 end
 
