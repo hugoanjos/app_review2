@@ -12,7 +12,9 @@ Request and Write Reviews and Open Store Listing for Android&#x2F;iOS in Flutter
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }
+  s.swift-version       = '4.2'
   s.swift_version       = '4.2'
+  s.swiftversion       = '4.2'
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
